@@ -1,0 +1,19 @@
+c:\Users\Luiz\Desktop\Funcionario\obj\Debug\net8.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Luiz\Desktop\Funcionario\obj\Debug\net8.0\Funcionario.AssemblyInfoInputs.cache
+c:\Users\Luiz\Desktop\Funcionario\obj\Debug\net8.0\Funcionario.AssemblyInfo.cs
+c:\Users\Luiz\Desktop\Funcionario\obj\Debug\net8.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\obj\Debug\net8.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\obj\Debug\net8.0\Funcionario.AssemblyInfoInputs.cache
+C:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\obj\Debug\net8.0\Funcionario.AssemblyInfo.cs
+C:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\obj\Debug\net8.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\obj\Debug\net8.0\Funcionario.sourcelink.json
+c:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\bin\Debug\net8.0\Funcionario.exe
+C:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\bin\Debug\net8.0\Funcionario.deps.json
+C:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\bin\Debug\net8.0\Funcionario.runtimeconfig.json
+c:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\bin\Debug\net8.0\Funcionario.dll
+c:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\bin\Debug\net8.0\Funcionario.pdb
+c:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\obj\Debug\net8.0\Funcionario.dll
+c:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\obj\Debug\net8.0\refint\Funcionario.dll
+c:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\obj\Debug\net8.0\Funcionario.pdb
+C:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\obj\Debug\net8.0\Funcionario.genruntimeconfig.cache
+C:\Users\Luiz\Desktop\backup Luiz\provafogaca\ProvaAS\Funcionario\obj\Debug\net8.0\ref\Funcionario.dll
